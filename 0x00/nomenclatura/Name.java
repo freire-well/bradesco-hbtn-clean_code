@@ -24,8 +24,7 @@ public class Name {
 
     // Uma palavra por conceito
     //A
-    public saveUser(){}; createAccount(){}; generateContract(){};
-
+    public saveUser(){}; saveAccount(){}; saveContract(){};
 
     //B
     public final int DAYS_IN_YEAR = 360;
